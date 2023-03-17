@@ -1,9 +1,7 @@
 import { connectDB } from "./db.js";
 import { PORT } from "./config.js";
-import express from "express";
+import app from "./app.js";
 
-const app = express();
-  
 connectDB();
 
 app.listen(PORT);
