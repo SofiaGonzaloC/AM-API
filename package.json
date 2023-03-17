@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "API for Advantage Marketing interview test",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "dev": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ana Sofia Gonzalez <sofiagonzaloc@outlook.com>",
