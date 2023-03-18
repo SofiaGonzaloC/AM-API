@@ -1,6 +1,8 @@
 ### Overview
 This is a REST api to make requests to a mongodb database to create and fetch users
 
+Base URL: 'https://advantage-marketing-api.glitch.me'
+
 ### Getting started
 Follow these steps to get started:
 1. `git clone https://github.com/SofiaGonzaloC/AM-API.git`
